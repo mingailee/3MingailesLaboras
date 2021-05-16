@@ -1,12 +1,7 @@
 <resources>
-    <string name="app_name">TextCounterSample</string>
-    <string name="btn_calculate_caption">Calculate</string>
-    <string name="CharsSelection">Chars</string>
-    <string name="WordsSelection">Words</string>
-    <string name="NumbersSelection">Numbers</string>
-    <string-array name="planets_array">
-        <item>Chars</item>
-        <item>Words</item>
-        <item>Numbers</item>
-    </string-array>
+    <string name="app_name">Add and delete notes</string>
+    <string name="open_receiver_activity">Open new activity</string>
+    <string name="btn_add">Add note</string>
+    <string name="btn_delete">Delete note</string>
+    <string name="type_note_here">Type note here</string>
 </resources>
